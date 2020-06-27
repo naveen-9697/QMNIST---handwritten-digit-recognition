@@ -2,12 +2,15 @@
 More data than the MNIST.
 More details on <a href="https://github.com/facebookresearch/qmnist">facebookresearch's repo</a>:
 <br></br>
-Inspiration:
+<b>Inspiration:</b>
+No work has been done on QMNIST data as of 27 June 2020. So, I tried this and uploaded my work here on GitHub.
 <br></br>
-Thanks:
-
+<b>My Architecture:</b>
 <br></br>
-Citing QMNIST:
+<b>Thanks:</br>
+Huge thanks to <a href=https://www.linkedin.com/in/andrewyng/>Andrew Ng</a> and Coursera for teaching me all of these things. Also thanks to stackoverflow, Cross Validated and lots of medium articles.
+<br></br>
+<b>Citing QMNIST:</b>
 ```bibtex
 @incollection{qmnist-2019,
    title = "Cold Case: The Lost MNIST Digits",
