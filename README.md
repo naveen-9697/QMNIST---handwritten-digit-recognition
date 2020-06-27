@@ -1,9 +1,13 @@
 # QMNIST---handwritten-digit-recognition
 More data than the MNIST.
 More details on <a href="https://github.com/facebookresearch/qmnist">facebookresearch's repo</a>:
+<br></br>
+Inspiration:
+<br></br>
+Thanks:
 
 <br></br>
-citation:
+Citing QMNIST:
 ```bibtex
 @incollection{qmnist-2019,
    title = "Cold Case: The Lost MNIST Digits",
