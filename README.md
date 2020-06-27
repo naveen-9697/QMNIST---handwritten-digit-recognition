@@ -4,6 +4,7 @@ More details on <a href="https://github.com/facebookresearch/qmnist">facebookres
 
 <br></br>
 citation:
+```bibtex
 @incollection{qmnist-2019,
    title = "Cold Case: The Lost MNIST Digits",
    author = "Chhavi Yadav and L\'{e}on Bottou",\
@@ -11,3 +12,4 @@ citation:
    year = {2019},
    publisher = {Curran Associates, Inc.},
 }
+```
